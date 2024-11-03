@@ -1,3 +1,5 @@
+# Name: SANJUSHRI A
+# Register No:212223040187
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
